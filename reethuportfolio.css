@@ -3,9 +3,9 @@
     font-family: 'Roboto', sans-serif;
 }
 
-.bannerBgImage {
+.bannerBgimage {
     height: 100vh;
-    background: url("/images/bannerImage.jpg");
+    background: url("bannerimage.jpg");
     background-size: cover;
     position: relative;
 } 
