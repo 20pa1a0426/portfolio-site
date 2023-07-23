@@ -3,7 +3,7 @@
     font-family: 'Roboto', sans-serif;
 }
 
-.bannerBgImage {
+.bannerBgimage {
     height: 100vh;
     background: url("bannerimage.jpg");
     background-size: cover;
